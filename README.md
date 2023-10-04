@@ -1,1 +1,1 @@
-# Project This project is basically by providing certains it will predicts whether the person will have a stroke or not. This model is built using one of the machine learning algorithms that is Random Forest Classifier
+# Project This project is basically by providing certain inputs it will predicts whether the person will have a stroke or not. This model is built using one of the machine learning algorithms that is Random Forest Classifier
